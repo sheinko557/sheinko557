@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shein Ko Ko Win</h1>
+<h2 align="center">Hi 👋, I'm Shein Ko Ko Win</h2>
 <h3 align="center">A junior developer from Myanmar</h3>
 
 - 📫 How to reach me **sheinko557@gmail.com**
