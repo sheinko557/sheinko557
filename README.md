@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-<p>Feel free to connect with me on <a href="https://t.me/errorx500">Telegram</a>. I'm always interested in new collaborations and opportunities!</p>
+<p>Feel free to reach out with me on <a href="https://t.me/errorx500">Telegram</a>. I'm always interested in new collaborations and opportunities!</p>
 </div>
